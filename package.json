@@ -1,6 +1,6 @@
 {
   "name": "@abi-software/mapcore-augmented-results",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "MAPcore augmented results.",
   "main": "build/mapcore-augmented-results.js",
   "files": [
