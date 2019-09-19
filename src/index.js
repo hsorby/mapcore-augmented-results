@@ -91,8 +91,8 @@ exports.mapcore_augmented_results_module = function()  {
       }
       if (params.q.toUpperCase().includes("STELLATE") || params.q === "UBERON:0002440") {
         sorted_data.unshift({
-            "Dataset Title": "Mouse Stellate Ganglion",
-            "Description": "Data from the Shivkumar/Tompkins group displayed in a 3D stellate scaffold.",
+            "Dataset Title": "Cell Body Segmentation and Electrophysiology Data: Stellate Ganglion",
+            "Description": "Mouse stellate ganglion neuronal cell shape data from the Shivkumar/Tompkins group are displayed in a 3D stellate scaffold. 15 neurons, including their cell bodies, axons and dendrites, are displayed on five cross-sections of the stellate with the high resolution image displayed as a texture map. Electrophysiological data from these cells can be visualized by clicking on the cell. Note that the scaffold in this example is a geometrically simple shape designed to register the images in the appropriate anatomical location. The shape of the scaffold will be improved once more data are available to define the stellate boundaries.",
             "Example Image": "",
             "Scaffold": {
               "uri": "https://mapcore-bucket1.s3-us-west-2.amazonaws.com/ISAN/scaffold/stellate/stellate_metadata.json",
