@@ -101,7 +101,7 @@ exports.mapcore_augmented_results_module = function()  {
               'annotation': 'UBERON:0002440'
             },
             "DataViewer": {
-              "uri": "https://mapcore-bucket1.s3-us-west-2.amazonaws.com/ISAN/csv-data/use-case-2/Sample_1_18907001_channel_1.csv",
+              "uri": "https://mapcore-bucket1.s3-us-west-2.amazonaws.com/ISAN/csv-data/stellate/directory-meta.json",
               'species': 'Mouse',
               'organ': 'nerve',
               'annotation': 'UBERON:0002440'
